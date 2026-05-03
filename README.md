@@ -137,6 +137,14 @@ Database: `data/products.db`
 - **products**: id, name, category, price, sales, rating  
 - **inventory**: id, product_id (FK → products.id), region, stock  
 
+Sample Data:
+
+| name                | category | price | sales | rating |
+|---------------------|----------|-------|-------|--------|
+| Nova X Smartphone   | Phone    | 999   | 1500  | 4.5    |
+| Orbit Lite Phone    | Phone    | 399   | 1100  | 4.0    |
+
+
 ---
 
 ### Unstructured Data
