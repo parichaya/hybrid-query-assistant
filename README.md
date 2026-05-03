@@ -38,9 +38,9 @@ Query Router
  │               │               │
 SQL Agent     RAG Agent      BOTH
  │               │               │
- └──────→ LLM Synthesis ←───────┘
-                ↓
-          Final Answer
+ └───────→ LLM Synthesis ←───────┘
+                 ↓
+           Final Answer
 ```
 
 ---
