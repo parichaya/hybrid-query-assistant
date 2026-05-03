@@ -1,0 +1,51 @@
+Product Catalog: Laptops
+
+Acme Pro Laptop:
+The Acme Pro Laptop is designed for professionals who require consistent and reliable performance across demanding workloads.
+It features a 14-inch full HD display, 16GB RAM, and a 512GB SSD. This configuration enables smooth multitasking, fast application loading,
+and efficient handling of development environments such as containerized systems and virtual machines.
+
+In real-world scenarios, this laptop performs well under sustained CPU-intensive tasks such as data preprocessing, backend development,
+and analytics workflows. Thermal design ensures stable performance even under extended load conditions, preventing throttling and performance drops.
+
+Use Cases:
+- Software development (Python, C++, container workflows)
+- Data analysis and visualization
+- Light machine learning experimentation
+
+Limitations:
+While highly capable, this device is not optimized for GPU-heavy workloads such as deep learning training or high-end gaming.
+
+---
+
+Zenith Ultra Laptop:
+The Zenith Ultra Laptop is a mid-range device optimized for general productivity. It includes a 15.6-inch display, 8GB RAM,
+and a 256GB SSD. It is designed for students and professionals who primarily work with documents, web applications, and communication tools.
+
+Its strength lies in energy efficiency and simplicity. The system remains responsive for standard workloads and is particularly suited
+for environments where portability and battery life are prioritized over raw performance.
+
+Use Cases:
+- Office productivity (documents, spreadsheets)
+- Web-based applications
+- Media consumption
+
+---
+
+Orion Gaming Laptop:
+The Orion Gaming Laptop is designed for high-performance workloads. It includes a dedicated GPU, advanced cooling systems,
+and a high refresh rate display. This device is capable of handling rendering workloads, simulation environments, and modern gaming engines.
+
+It is particularly useful for:
+- 3D rendering and modeling
+- Simulation and visualization tasks
+- GPU-accelerated computation
+
+Trade-offs include higher power consumption and reduced battery life compared to lighter devices.
+
+---
+
+Comparison Summary:
+Acme Pro → Balanced performance for professional workloads
+Zenith Ultra → Cost-effective for everyday use
+Orion Gaming → High-performance system for intensive tasks

@@ -1,0 +1,39 @@
+Product Catalog: Smartphones
+
+Nova X Smartphone:
+The Nova X Smartphone features a 6.5-inch display, 5G connectivity, and a 48MP camera system.
+It is optimized for high-speed data access, multimedia consumption, and mobile gaming.
+
+Performance:
+The device provides smooth application switching and handles moderate multitasking effectively.
+It performs well in scenarios such as video streaming, social media usage, and gaming.
+
+Camera Capabilities:
+The multi-lens camera system allows for detailed photography in various lighting conditions,
+including low-light and HDR environments.
+
+---
+
+Orbit Lite Phone:
+The Orbit Lite Phone is designed as an entry-level device focusing on affordability and reliability.
+It includes a 6.1-inch display and extended battery life, making it suitable for communication-focused usage.
+
+Use Cases:
+- Calls and messaging
+- Basic applications
+- Long-duration battery usage
+
+---
+
+Vertex Pro Phone:
+The Vertex Pro Phone represents a premium segment with enhanced processing power, improved camera systems,
+and durable build quality. It is suitable for users requiring consistent performance across multiple applications.
+
+---
+
+Selection Considerations:
+Users should choose devices based on:
+- Performance requirements
+- Camera quality
+- Battery expectations
+- Budget constraints
